@@ -1,0 +1,50 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "flexbison",
+      "main.c"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/main.c",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/flexbison"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "flexbison",
+      "parser.tab.c"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/parser.tab.c",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/flexbison"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "flexbison",
+      "lex.yy.c"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/lex.yy.c",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/flexbison"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "flexbison",
+      "code_generator.c"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/code_generator.c",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/flexbisonLR/flexbison"
+  }
+]

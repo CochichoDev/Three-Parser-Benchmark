@@ -1,0 +1,86 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/include/antlr4-runtime",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main.cpp",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/include/antlr4-runtime",
+      "-o",
+      "main",
+      "code_generator.cpp"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/code_generator.cpp",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/include/antlr4-runtime",
+      "-o",
+      "main",
+      "ANTLRGrammarLexer.cpp"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/ANTLRGrammarLexer.cpp",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/include/antlr4-runtime",
+      "-o",
+      "main",
+      "ANTLRGrammarParser.cpp"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/ANTLRGrammarParser.cpp",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/include/antlr4-runtime",
+      "-o",
+      "main",
+      "ASTBuilderVisitor.cpp"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/ASTBuilderVisitor.cpp",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-I/usr/include/antlr4-runtime",
+      "-o",
+      "main",
+      "ANTLRGrammarBaseListener.cpp"
+    ],
+    "directory": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR",
+    "file": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/ANTLRGrammarBaseListener.cpp",
+    "output": "/home/cochicho/Documents/ISAE/PIE/Final/ANTLR/main"
+  }
+]
